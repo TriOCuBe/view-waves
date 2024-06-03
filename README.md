@@ -1,0 +1,1 @@
+A very small mindustry mod that adds the option to view the units of incoming Waves, for up to 25 waves. Shows unit name, number, and type (ground, hovering, flying etc) for every wave and every unit in that wave.
